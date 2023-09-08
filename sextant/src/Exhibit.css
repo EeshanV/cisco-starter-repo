@@ -3,9 +3,9 @@
     margin: 0.5vw;
     padding: 0vw 2vw 0vw 2vw;
     text-align: center;
-    color: #0B2027;
-    background-color: #C2C1C2;
-    border: 0.25vw solid #0B2027;
+    color: #002933;
+    background-color: #00b8e6;
+    border: 0.25vw solid #005266;
     border-radius: 2vw;
 }
 
@@ -21,7 +21,7 @@
     font-weight: bold;
     font-size: 1.75vw;
     color: #002933;
-    background-color: #5386E4;
+    background-color: #80e5ff;
     border: 0.25vw solid #005266;
-    border-radius: 0.6vw;
+    border-radius: 2vw;
 }
